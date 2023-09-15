@@ -1,0 +1,1 @@
+<img style="width: 200px"  src="/storage/images/logo.svg" alt="logo" /><?php /**PATH C:\school\leerjaar 3\Project 6\Projact6\GV-site\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
